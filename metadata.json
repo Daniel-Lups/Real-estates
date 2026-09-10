@@ -1,0 +1,8 @@
+{
+  "name": "PrimeHomes Minna",
+  "description": "A premium, modern real estate and property consultancy platform for Minna, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
